@@ -1,0 +1,22 @@
+# URL Shortener
+
+A simple **URL shortener** built with **Node.js**, **Express**, and **MongoDB**.  
+Generate short URLs, track visits, and view analytics for each short URL.
+
+---
+
+## Features
+
+- Generate short URLs from long URLs
+- Redirect to original URL via short URL
+- Track visits with timestamps
+- View analytics (total clicks and visit history)
+
+---
+
+## Technologies Used
+
+- Node.js & Express
+- MongoDB & Mongoose
+- shortid (for generating unique short IDs)
+- nodemon (for development)
